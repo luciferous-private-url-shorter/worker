@@ -1,4 +1,4 @@
-name = "worker"
+name = "luciferous-private-url-shorter-worker"
 main = "build/index.js"
 compatibility_date = "2025-12-25"
 
