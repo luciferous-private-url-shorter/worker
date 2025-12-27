@@ -19,4 +19,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ID }}
-      - run: wrangler build
+          command: build
